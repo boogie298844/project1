@@ -1,46 +1,39 @@
 body {
-   margin:0;
- }
-
- div {
-   float: left;
+  margin:0;
+  background-color: black;
+  color: red;
+  font-size: 25px
+  
+  }
 }
 
-  .header {
-    background-color: red;
-    width:100%;
+div {
+  float: right;
+}
 
-   }
+.logo{
+  display:block;
+  margin:0 auto;
+  width: 50%
+}
 
-   .navagation {
-     background-color: black;
-     width: 100%;
+.header {
+}
 
-   }
+.navagation {
+}
 
-   .main-content {
-     background-color:black;
-     width:50%
+.main-content {
+}
 
-   }
+.main-content{
+  margin:50%;
+}
 
-   .main-content{
-     background-color: red;
-     width:100%
-     height:100px
-     margin:50%
+.sidebar {
+  pixels: 100px;
+  padding: 5px;
+}
 
-
-   }
-   .sidebar {
-     background-color: black;
-     width: 100%
-     height: 100px
-     pixels: 100px
-     padding: 5px;
-
-     }
-     .footer {
-       background-color: black;
-       width:100%
-        }
+.footer {
+}
