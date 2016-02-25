@@ -3,7 +3,7 @@ body {
   background-color: black;
   color: red;
   font-size: 25px
-  
+
   }
 }
 
@@ -27,7 +27,7 @@ div {
 }
 
 .main-content{
-  margin:50%;
+  margin:10%auto;
 }
 
 .sidebar {
